@@ -1,0 +1,12 @@
+-I
+../../nutekt-digital/inc
+-I
+../../nutekt-digital/inc/utils/
+-I
+../../ext/CMSIS/CMSIS/Include
+-I
+../../nutekt-digital/inc/dsp
+-I
+../../nutekt-digital/inc/utils
+-D
+ARM_MATH_CM4
